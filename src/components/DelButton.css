@@ -1,0 +1,13 @@
+.del-btn {
+    display: flex;
+    flex: 1;
+    height: 4em;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: lighter;
+    font-size: 1.4em;
+    outline: 1px solid #330303;
+    background-color: #c9290d;
+
+}
